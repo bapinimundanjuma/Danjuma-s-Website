@@ -1,0 +1,14 @@
+{
+    "name": "danjumas-webpage",
+    "version": "1.0.0",
+    "private": true,
+    "description": "A small Node.js server for Danjuma's travel website",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "dotenv": "^17.4.2",
+        "nodemailer": "^9.0.5"
+    }
+}
